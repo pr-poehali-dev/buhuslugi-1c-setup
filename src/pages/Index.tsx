@@ -262,7 +262,7 @@ const Index = () => {
                 Оставьте заявку — проведём бесплатную консультацию и оценим ваши задачи.
               </p>
               <a
-                href="tel:+70000000000"
+                href="tel:+79085548326"
                 className="mt-9 inline-flex items-center gap-2 rounded-full bg-white text-slate-900 font-bold text-base px-8 py-4 shadow-xl hover:scale-105 transition-transform"
               >
                 <Icon name="Phone" size={18} />

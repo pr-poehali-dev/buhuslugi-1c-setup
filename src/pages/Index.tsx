@@ -83,11 +83,11 @@ const Index = () => {
             <a href="#faq" className="hover:text-fuchsia-600 transition-colors">Вопросы</a>
           </nav>
           <a
-            href="#cta"
+            href="tel:+79085548326"
             className="inline-flex items-center gap-2 rounded-full bg-slate-900 text-white text-sm font-semibold px-5 py-2.5 hover:bg-slate-700 transition-colors"
           >
-            Связаться
-            <Icon name="ArrowUpRight" size={16} />
+            <Icon name="Phone" size={15} />
+            +7 908 554-83-26
           </a>
         </div>
       </header>
